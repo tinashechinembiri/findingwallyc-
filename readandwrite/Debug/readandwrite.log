@@ -1,0 +1,4 @@
+﻿  readandwrite.cpp
+c:\users\tinashechinembiri\desktop\assingment 1 part 2\readandwrite\readandwrite\readandwrite.cpp(178): warning C4101: 'j': unreferenced local variable
+  readandwrite.vcxproj -> C:\Users\tinashechinembiri\Desktop\assingment 1 part 2\readandwrite\Debug\readandwrite.exe
+  readandwrite.vcxproj -> C:\Users\tinashechinembiri\Desktop\assingment 1 part 2\readandwrite\Debug\readandwrite.pdb (Full PDB)
